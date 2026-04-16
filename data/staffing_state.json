@@ -1,0 +1,26 @@
+{
+    "Kitchen": {
+        "Chef": {
+            "capacity": 15.609803407270864,
+            "min": 1
+        },
+        "Dishwasher": {
+            "capacity": 45,
+            "min": 1
+        }
+    },
+    "Dining Hall": {
+        "Waiter": {
+            "capacity": 15,
+            "min": 1
+        },
+        "Host": {
+            "capacity": 60,
+            "min": 1
+        },
+        "Manager": {
+            "capacity": 120,
+            "min": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "flour": {
+        "consumption_rate": 0.11999997497847857,
+        "lead_time": 2,
+        "shelf_life": 30,
+        "safety_buffer": 1.1
+    },
+    "sugar": {
+        "consumption_rate": 0.01,
+        "lead_time": 1,
+        "shelf_life": 60,
+        "safety_buffer": 1.05
+    },
+    "chicken": {
+        "consumption_rate": 0.25,
+        "lead_time": 1,
+        "shelf_life": 4,
+        "safety_buffer": 1.15
+    },
+    "tomatoes": {
+        "consumption_rate": 0.15,
+        "lead_time": 1,
+        "shelf_life": 5,
+        "safety_buffer": 1.25
+    },
+    "cooking_oil": {
+        "consumption_rate": 0.05,
+        "lead_time": 3,
+        "shelf_life": 90,
+        "safety_buffer": 1.1
+    },
+    "salt": {
+        "consumption_rate": 0.005,
+        "lead_time": 7,
+        "shelf_life": 365,
+        "safety_buffer": 1.05
+    }
+}
