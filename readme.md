@@ -46,6 +46,6 @@ At the end of every shift, the system compares its *Predictions* to *Reality*. I
 
 ## Run the Learning Simulation
 
-Execute the main simulation which will train the model on the historical data, and then run the 3-week Friday night test to show the feedback loop in action.
+Execute the main simulation which will train the model on the historical data, and then run the 12-week Friday night test to show the feedback loop in action.
 
 `python simulator.py`
